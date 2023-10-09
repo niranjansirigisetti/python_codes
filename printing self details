@@ -1,0 +1,8 @@
+######printing self details
+print("\n Name: Niranjansai sirigsetti")
+print("\n Father Name: Srinu")
+print("\n Mother Name: Bhavani")
+print("\n Study: prusuing 2nd data science in aditya degree college")
+print("\n Hobbies:Reading books and listening music")
+print("\n interests: I like to coding in my free time")
+print("\n colour: black")
